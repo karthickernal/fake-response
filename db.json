@@ -1,11 +1,36 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1", "author": "partha"}
+    { "id": 1, "title": "Post 1", "author": "stark"},
+    { "id": 2, "title": "Post 2", "author": "steve"},
+    { "id": 3, "title": "Post 3", "author": "bruce"},
+    { "id": 4, "title": "Post 4", "author": "natasha"},
+    { "id": 5, "title": "Post 5", "author": "hawk"},
+    { "id": 6, "title": "Post 6", "author": "robin"},
+    { "id": 7, "title": "Post 7", "author": "batman"},
+    { "id": 8, "title": "Post 8", "author": "samantha"},
+    { "id": 9, "title": "Post 8.1", "author": "samantha"},
+    { "id": 10, "title": "Post 8.2", "author": "samantha"},
+    { "id": 11, "title": "Post 8.3", "author": "samantha"},
+    { "id": 12, "title": "Post 9", "author": "karthick"},
+    { "id": 13, "title": "Post 10", "author": "thor"},
+    { "id": 14, "title": "Post 11", "author": "wolvorine"},
+    { "id": 15, "title": "Post 12", "author": "thanos"}
   ],
   "comments": [
-    { "id": 1, "body": "beautiful", "postId": 1, "email": "sweety@gmail.com"  }
+    { "id": 1, "body": "Comment 1", "postId": 1, "email": "asasdas@gmail.com"  },
+    { "id": 2, "body": "Comment 2", "postId": 2, "email": "asd234adad@gmail.com"  },
+    { "id": 3, "body": "Comment 3", "postId": 3, "email": "vdfww23ds@gmail.com"  },
+    { "id": 4, "body": "Comment 4", "postId": 4, "email": "dsdf432@gmail.com"  },
+    { "id": 5, "body": "Comment 5", "postId": 5, "email": "g2f52c@gmail.com"  },
+    { "id": 6, "body": "Comment 6", "postId": 6, "email": "re2r5@gmail.com"  },
+    { "id": 7, "body": "Comment 7", "postId": 7, "email": "gf5fd2@gmail.com"  },
+    { "id": 8, "body": "Comment 8", "postId": 8, "email": "4s1fd4@gmail.com"  },
+    { "id": 9, "body": "Comment 8", "postId": 9, "email": "8fdf1df4@gmail.com"  },
+    { "id": 10, "body": "Comment 8", "postId": 10, "email": "dsf4df41@gmail.com"  },
+    { "id": 11, "body": "Comment 9", "postId": 11, "email": "invalidemail"  },
+    { "id": 12, "body": "Comment 10", "postId": 12, "email": "bvb4fg1@gmail.com"  }
   ],
   "profile": {
-    "name": "partha"
+    "name": "Karthick"
   }
 }
